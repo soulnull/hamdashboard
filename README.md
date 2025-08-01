@@ -1,3 +1,5 @@
+This fork modifies an older version to add HLS support.
+
 Original VA3HDL [YouTube - Presentation video](https://www.youtube.com/watch?v=sIdqMQTGNSc)
 
 VA3HDL en español [YouTube - Video en español](https://www.youtube.com/watch?v=IBMxELofKVA)
